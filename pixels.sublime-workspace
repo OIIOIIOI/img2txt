@@ -1,0 +1,448 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clic",
+				"clickTitleScreen\topenfl.display.Sprite"
+			],
+			[
+				"Level",
+				"LevelState\tclass"
+			],
+			[
+				"click",
+				"clickScreen\topenfl.display.Sprite"
+			],
+			[
+				"Spri",
+				"Sprite\tclass"
+			],
+			[
+				"DEF",
+				"DEFEND_UP\tActionType"
+			],
+			[
+				"atta",
+				"ATTACK_FRONT"
+			],
+			[
+				"Acti",
+				"ActionType\tActions"
+			],
+			[
+				"Mouse",
+				"MouseEvent\tflash.events"
+			],
+			[
+				"dra",
+				"drawRect(...)\tVoid"
+			],
+			[
+				"pl",
+				"playLoop(...)\tUnknown<1>"
+			],
+			[
+				"bgi",
+				"bigFlagRight\tBigFlag"
+			],
+			[
+				"fl",
+				"FLAG_A\tString"
+			],
+			[
+				"Sprite",
+				"Sprites\tclass"
+			],
+			[
+				"B",
+				"BIG\tString"
+			],
+			[
+				"enem",
+				"enemyActionText\tActionText"
+			],
+			[
+				"enemy",
+				"enemyActionText"
+			],
+			[
+				"player",
+				"playerAction\tActionType"
+			],
+			[
+				"upd",
+				"updateActionText(...)\tVoid"
+			],
+			[
+				"Action",
+				"ActionText\tclass"
+			],
+			[
+				"playera",
+				"playerActionText\tActionText"
+			],
+			[
+				"play",
+				"playerAction\tActionType"
+			],
+			[
+				"REST",
+				"TEXT_REST\tString"
+			],
+			[
+				"DEFE",
+				"TEXT_DEFEND\tString"
+			],
+			[
+				"ene",
+				"enemyAction\tAction"
+			],
+			[
+				"Actio",
+				"ActionText\tclass"
+			],
+			[
+				"filter",
+				"filterDead"
+			],
+			[
+				"Par",
+				"Particle\tclass"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "project.xml",
+			"settings":
+			{
+				"buffer_size": 305,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 112.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/Web/Tests/pixels/pixels"
+	],
+	"file_history":
+	[
+		"/var/www/php_errors.log",
+		"/var/www/Web/Tests/pixels/main.js",
+		"/var/www/Web/Tests/pixels/index.html",
+		"/var/www/cgmp/r-d-front/README.md",
+		"/home/sylvere/Downloads/alliance-europa.txt",
+		"/home/sylvere/Downloads/snazzy-maps-example-ultra-light-with-labels-style.html",
+		"/home/sylvere/Downloads/amdgpu-pro-driver/amdgpu-pro-install",
+		"/home/sylvere/Downloads/mpjms8TF.~",
+		"/home/sylvere/Downloads/export_teamlm_2016-10-17_12_36_28.csv",
+		"/home/sylvere/Downloads/export_teamsh_2016-10-17_12_36_43.csv",
+		"/home/sylvere/.cache/.fr-2RvBrx/fontello-a7854b5c/css/aefont.css",
+		"/home/sylvere/.cache/.fr-RL3TF4/fontello-a7854b5c/css/aefont.css",
+		"/var/www/ae-site/wp-content/plugins/ae/includes/ae-cpts.php",
+		"/home/sylvere/Downloads/Monokai - Spacegray.sublime-package_FILES/Monokai - Spacegray Eighties.tmTheme",
+		"/home/sylvere/Documents/RESOURCES/ae-site/fontello_list.txt",
+		"/home/sylvere/.cache/.fr-ZWyQgQ/fontello-a7854b5c/css/aefont-embedded.css",
+		"/home/sylvere/.cache/.fr-Sb7ptM/fontello-a7854b5c/css/aefont-codes.css",
+		"/home/sylvere/Downloads/sitemap.xml",
+		"/var/www/Web/Julie/CI3/application/config/config.php",
+		"/var/www/Web/Julie/www/contenu.txt",
+		"/var/www/ae-site/wp-content/plugins/ae/languages/aetd-fr_FR.po",
+		"/home/sylvere/.cache/.fr-9NQ5Ya/select2-4.0.3/dist/js/select2.js",
+		"/home/sylvere/.cache/.fr-Dgf0EW/select2-4.0.3/dist/css/select2.css",
+		"/home/sylvere/Downloads/default/layout.less",
+		"/var/www/Web/noc/miim/wp-content/themes/miim/header.php",
+		"/var/www/Web/noc/miim/wp-content/themes/miim/functions.php",
+		"/var/www/courant-drupal/drupal/themes/custom/courant/css/_crt-global.less",
+		"/var/www/mano-site-global/www/css/_mano-fonts.less",
+		"/home/sylvere/Downloads/default/_single.less",
+		"/home/sylvere/Downloads/default/_multiple.less",
+		"/var/www/ae-site/.htaccess",
+		"/var/www/ae-site/wp-content/themes/ae/languages/ae.pot",
+		"/var/www/ae-site/wp-content/plugins/ae/languages/ae-fr_FR.po",
+		"/var/www/lmac/plugins/lmac/languages/lmac-fr_FR.po",
+		"/var/www/ae-site-th/composer.json",
+		"/var/www/ae-site/.gitignore",
+		"/var/www/ae-site/README.md",
+		"/home/sylvere/php.txt",
+		"/var/www/courant-drupal/drupal/sites/default/services.yml",
+		"/var/www/courant-drupal/drupal/sites/default/settings.php",
+		"/var/www/courant-drupal/drupal/sites/default/services.local.yml",
+		"/var/www/courant-drupal/drupal/sites/default/settings.local.php",
+		"/var/www/courant-drupal/drupal/sites/development.services.yml",
+		"/home/sylvere/Documents/courant-drupal/composer.json",
+		"/var/www/courant-drupal/drupal/composer.json",
+		"/var/www/courant-drupal/composer.json",
+		"/home/sylvere/Documents/courant-drupal/drupal/composer.json",
+		"/var/www/mano-site-global/application/views/header.php",
+		"/var/www/mano-site-global/www/css/_mano-header.less",
+		"/var/www/html/test.html",
+		"/home/sylvere/Documents/settings.local.php",
+		"/var/www/courant-drupal/drupal/sites/settings.php",
+		"/var/www/courant-drupal/drupal/sites/settings.local.php",
+		"/var/www/courant-drupal/drupal/web.config",
+		"/var/www/mano-wall/weixin/eventList/index.php",
+		"/var/www/mano-wall/weixin/viewImg.php",
+		"/var/www/mano-wall/weixin/head.php",
+		"/home/sylvere/Downloads/test.html",
+		"/home/sylvere/Downloads/160830test.html",
+		"/var/www/mano-wall/weixin/api.php",
+		"/var/www/mano-wall/weixin/wechatImg.php",
+		"/var/www/LD36/src/Actions.hx",
+		"/var/www/LD36/src/Tower.hx",
+		"/var/www/LD36/www/style.css",
+		"/var/www/LD36/www/index.html",
+		"/var/www/LD36/project.xml",
+		"/var/www/LD36/src/Level.hx",
+		"/var/www/LD36/src/SoundMan.hx",
+		"/var/www/LD36/src/Game.hx",
+		"/var/www/LD36/src/Sprites.hx",
+		"/var/www/LD36/src/TitleScreen.hx",
+		"/var/www/LD36/src/Main.hx",
+		"/var/www/LD36/src/Buttons.hx",
+		"/var/www/LD36/src/ActionText.hx",
+		"/var/www/LD36/src/UIWood.hx",
+		"/var/www/LD36/src/Soldier.hx",
+		"/var/www/LD36/src/BigFlag.hx",
+		"/var/www/LD36/src/Flag.hx",
+		"/var/www/LD36/src/Flags.hx",
+		"/var/www/LD36/src/Particle.hx",
+		"/var/www/LD36/src/BannerText.hx",
+		"/home/sylvere/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/sylvere/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/var/www/LD36/src/Screen.hx",
+		"/var/www/LD36/.gitignore",
+		"/var/www/LD36/src/Arrow.hx",
+		"/var/www/LD36/src/Controls.hx"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"/var/www/mano-wall/weixin",
+			"/var/www/LD36/src",
+			"C:\\Projects\\LD35Haxe\\src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"functio",
+			"call",
+			"http://",
+			"dimension",
+			"Iows",
+			"dimensionTemplate",
+			"iows",
+			"ikea",
+			"ikea.com",
+			"singular",
+			"width",
+			"bcmath",
+			"wxUpload",
+			"manogroup_wechatUploadimg",
+			"(clickButtons",
+			"clickButtons",
+			"(contains(",
+			"changeScreen",
+			"TitleScreen",
+			"clickScreen",
+			"removeChild",
+			"checkIfGameOver",
+			"enemyActionText",
+			"flagLeft",
+			"var sy = ((Game.HEIGH",
+			"flagLeft",
+			"updateActionTexts",
+			"buttons",
+			">;\n",
+			"\n\t\tfor(p in particles){\n\t\t\tp.update();\n\t\t}",
+			";\n",
+			"H",
+			"SPACE",
+			"comment"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"https://"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "project.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pixels.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
